@@ -8,8 +8,16 @@ redirect_from:
 ---
 <section id="about">
   <h2>About</h2>
- <p>I am jointly funded by the laboratories of <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Dr. Jiaqi Shi</a> in the Department of Pathology and <a href="https://sibl.lab.medicine.umich.edu/">Dr. Arvind Rao</a> in the Department of Computational Medicine and Bioinformatics. I serve as the primary bioinformatician for the Shi Lab. Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at IIT (BHU), Varanasi, India, in 2023.</p>
+  <p>
+    I am jointly funded by the laboratories of 
+    <a href="https://medresearch.umich.edu/labs-departments/labs/shi-lab">Dr. Jiaqi Shi</a> 
+    in the Department of Pathology and 
+    <a href="https://sibl.lab.medicine.umich.edu/">Dr. Arvind Rao</a> 
+    in the Department of Computational Medicine and Bioinformatics. 
+    I serve as the primary bioinformatician for the Shi Lab. Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical Engineering at IIT (BHU), Varanasi, India, in 2023.
+  </p>
 </section>
+
  
 <section id="research">
   <h2>Research</h2>
