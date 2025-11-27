@@ -27,6 +27,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Recent News"
+    url: /#research-section
     
   # - title: "CV"
   #   url: /cv-json/
