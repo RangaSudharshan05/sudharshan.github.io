@@ -30,7 +30,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 <h2>What inspires me</h2>
 <p>
-From an early age, I have been fascinated by free will as a philosophical construct. My curiosity was shaped by reading Dostoevsky, exploring the neurobiology of behavior with Robert Sapolsky, and inevitably embracing an absurdist perspective. These interests naturally evolved into a fascination with the quantum nature of biology and the stochastic regulation of gene expression — what I think of as the “free will” of the human genome.
+From an early age, I have been fascinated by free will as a philosophical construct. My childhoood was shaped by reading Dostoevsky's literature, exploring the neurobiology of behavior with Robert Sapolsky, and inevitably embracing an absurdist perspective. These interests naturally evolved into a fascination with the quantum nature of biology and the stochastic regulation of gene expression — what I think of as the “free will” of the human genome.
 </p>
 <p>
 I explore the intersection of epigenomics and quantum-inspired biology, in which epigenomic regulation functions as a form of cellular decision-making. Stochastic biochemical processes — such as chromatin remodeling, enhancer activation, and nucleosome repositioning — probabilistically determine which regulatory paths a cell “chooses” within the constraints of its genomic landscape. These probabilistic transitions mirror quantum-like principles, including superposition of potential states, context-dependent outcomes, and non-local regulatory effects.
