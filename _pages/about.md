@@ -25,11 +25,20 @@ redirect_from:
  </p>
 
 <p>
-In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms for biological network inference across large-scale transcriptomics data. My research applies concepts from quantum information theory and quantum computing to model biological networks — even on classical hardware. Although genes and proteins are not quantum systems, regulatory and signaling networks frequently exhibit non-local correlations, contextual behavior, and entanglement-like dependencies that resemble quantum phenomena and are difficult to capture with traditional statistical models.
+In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms for biological network inference across large-scale transcriptomics data. My research applies concepts from quantum information theory and quantum computing to model biological networks. Although genes and cells are not quantum systems, regulatory and signaling networks frequently exhibit non-local correlations, contextual behavior, and entanglement-like dependencies that resemble quantum phenomena and are difficult to capture with traditional statistical models.
 </p>
+
+<h2>What inspires me</h2>
 <p>
-A central theme of my work is the intersection between epigenomics and quantum-inspired biology, where epigenomic regulation functions as a form of cellular decision-making: stochastic biochemical processes such as chromatin remodeling, enhancer activation, and nucleosome repositioning probabilistically determine which regulatory paths a cell “chooses” within the constraints of its genomic landscape. These probabilistic transitions — shaped by chromatin accessibility, histone modifications, and 3D genome architecture — mirror quantum-like principles including superposition of potential states, context-dependent outcomes, and non-local regulatory effects. Epithelial–mesenchymal transition (EMT) provides a concrete example of this framework in action. In EMT, epithelial cells lose polarity and adhesion while acquiring mesenchymal traits such as motility and invasiveness, yet single-cell data reveal that transitions between epithelial, mesenchymal, and hybrid states often occur spontaneously, even without strong external stimuli. This resembles quantum tunneling, as cells traverse substantial epigenetic, transcriptional, and regulatory barriers in a probabilistic manner. Furthermore, the hybrid epithelial/mesenchymal states, in which cells co-express epithelial and mesenchymal markers, conceptually parallel quantum superposition: cells transiently occupy multiple potential identities, with final outcomes influenced by local and global contextual cues such as mechanical stress or chromatin accessibility. Collectively, these observations highlight how stochastic, epigenetically regulated processes govern cell fate in a quantum-inspired, probabilistic landscape, motivating the use of tools such as density matrices, partial traces, and quantum mutual information to model how cells integrate signals and commit to specific phenotypic trajectories.
-</p>
+From an early age, I have been fascinated by free will as a philosophical construct. My curiosity was shaped by reading Dostoevsky, exploring the neurobiology of behavior with Robert Sapolsky, and inevitably embracing an absurdist perspective. These interests naturally evolved into a fascination with the quantum nature of biology and the stochastic regulation of gene expression — what I think of as the “free will” of the human genome.
+
+I explore the intersection of epigenomics and quantum-inspired biology, in which epigenomic regulation functions as a form of cellular decision-making. Stochastic biochemical processes — such as chromatin remodeling, enhancer activation, and nucleosome repositioning — probabilistically determine which regulatory paths a cell “chooses” within the constraints of its genomic landscape. These probabilistic transitions mirror quantum-like principles, including superposition of potential states, context-dependent outcomes, and non-local regulatory effects.
+
+A concrete example is epithelial–mesenchymal transition (EMT). During EMT, epithelial cells lose polarity and adhesion while acquiring mesenchymal traits such as motility and invasiveness. Single-cell data reveal that transitions between epithelial, mesenchymal, and hybrid states often occur spontaneously, even without strong external stimuli. This behavior resembles quantum tunneling, as cells probabilistically traverse substantial epigenetic, transcriptional, and regulatory barriers. Hybrid epithelial/mesenchymal states — in which cells co-express markers of both identities — conceptually parallel quantum superposition, with cells transiently occupying multiple potential identities. Final outcomes are influenced by local and global contextual cues, such as mechanical stress or chromatin accessibility.
+
+These observations illustrate how stochastic, epigenetically regulated processes govern cell fate in a quantum-inspired probabilistic landscape. They also motivate the use of tools such as density matrices, partial traces, and quantum mutual information to model how cells integrate signals and commit to specific phenotypic trajectories.
+
+My long-term goal is to develop computational frameworks for precision medicine while contributing to policy and ethical discussions surrounding AI-driven genomics. I aim to bridge the worlds of biology, engineering, and public policy, advancing scientific discovery, fostering reproducible research, and promoting responsible innovation.</p>
 </section>
 
 
@@ -37,5 +46,5 @@ A central theme of my work is the intersection between epigenomics and quantum-i
 
 <section id="recent-news">
   <h2>Recent News</h2>
-  <p>Your research content here...</p>
+  <p>Will update here...</p>
 </section>
