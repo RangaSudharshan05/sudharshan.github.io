@@ -35,7 +35,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
   <h2>Recent News</h2>
   <ul>
     <section id="recent-news">
-  <h2>Recent News</h2>
+
   <ul>
     <li>Joined Dr. Arvind Rao’s lab as a research associate <a href="" target="_blank">[link]</a></li>
   </ul>
