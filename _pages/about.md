@@ -25,7 +25,7 @@ Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical 
 
  
 <section id="research">
-  <h2>Research</h2>
+  <h2>Researcaaah</h2>
  <p> In Dr. Jiaqi Shi’s lab, I study how alterations in key epigenetic regulators—specifically KMT2D and KDM6A—shape pancreatic cancer progression. As the lab’s bioinformatician, I lead the analysis of epigenomic and transcriptomic datasets to characterize how chromatin remodeling influences cellular identity, plasticity, and state transitions. This work aims to uncover the molecular mechanisms and cellular heterogeneity that drive tumor evolution and therapeutic resistance in pancreatic cancer.
  </p>
 
@@ -66,35 +66,36 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 
 <li>
-  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma (American Society of Hematology:ASH – oral presentation)</div>
+  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma <br> (American Society of Hematology: ASH – oral presentation)</div>
   <a href="https://submit.hematology.org/program/presentation/680702" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: TIGIT-mediated immune suppression in KMT2D-mutant pancreatic cancer (American Association for Cancer Research:AACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: TIGIT-mediated immune suppression in KMT2D-mutant pancreatic cancer <br> (American Association for Cancer Research: AACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A061/765827" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: Epigenetic Tumor Suppressor KMT2D Shapes the Immune Landscape in Pancreatic Cancer (American Association for Cancer ResearchAACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: Epigenetic Tumor Suppressor KMT2D Shapes the Immune Landscape in Pancreatic Cancer <br> (American Association for Cancer Research : AACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A019/765735" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: KMT2D Loss Induces Enrichment of Plod2+ Fibroblasts in Pancreatic Cancer (American Association for Cancer Research:AACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: KMT2D Loss Induces Enrichment of Plod2+ Fibroblasts in Pancreatic Cancer <br> (American Association for Cancer Research: AACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A061/765827" target="_blank">[link]</a>
 </li>
 
 
 <li>
-  <div class="item-info"><span class="date">Jul 2025:</span> Accepted conference paper titled "QubitLens: An Interactive Learning Tool for Quantum State Tomography" (QSEEC IEEE Quantum Week, ABQ)</div>
+  <div class="item-info"><span class="date">Jul 2025:</span> Accepted conference paper titled "QubitLens: An Interactive Learning Tool for Quantum State Tomography" 
+ <br> (QSEEC IEEE Quantum Week, ABQ)</div>
   <a href="https://inspirehep.net/literature/2920814" target="_blank">[link]</a>
 </li>
 
 
 
 <li>
-  <div class="item-info"><span class="date">Jun 2025:</span> Gave a talk: “Simplifying quantum state tomography using maximum likelihood estimation” — IEEE ISIT 2025</div>
+  <div class="item-info"><span class="date">Jun 2025:</span> Gave a talk: “Simplifying quantum state tomography using maximum likelihood estimation” IEEE ISIT 2025</div>
   <a href="https://drive.google.com/file/d/1AAcbXV73W0NewvjlCARuOrVbHuTMZAtj/view?usp=sharing" target="_blank">[link]</a>
 </li>
 
