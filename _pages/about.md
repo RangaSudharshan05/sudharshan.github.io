@@ -25,7 +25,7 @@ Prior to this, I completed my Bachelor’s and Master’s degrees in Biomedical 
 
  
 <section id="research">
-  <h2>Researcaaah</h2>
+  <h2>Research</h2>
  <p> In Dr. Jiaqi Shi’s lab, I study how alterations in key epigenetic regulators—specifically KMT2D and KDM6A—shape pancreatic cancer progression. As the lab’s bioinformatician, I lead the analysis of epigenomic and transcriptomic datasets to characterize how chromatin remodeling influences cellular identity, plasticity, and state transitions. This work aims to uncover the molecular mechanisms and cellular heterogeneity that drive tumor evolution and therapeutic resistance in pancreatic cancer.
  </p>
 
@@ -95,7 +95,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 
 <li>
-  <div class="item-info"><span class="date">Jun 2025:</span> Gave a talk: “Simplifying quantum state tomography using maximum likelihood estimation” IEEE ISIT 2025</div>
+  <div class="item-info"><span class="date">Jun 2025:</span> Gave a talk: “Simplifying quantum state tomography using maximum likelihood estimation” <br> IEEE International Symposium on Information Theory 2025</div>
   <a href="https://drive.google.com/file/d/1AAcbXV73W0NewvjlCARuOrVbHuTMZAtj/view?usp=sharing" target="_blank">[link]</a>
 </li>
 
