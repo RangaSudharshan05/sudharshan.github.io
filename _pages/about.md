@@ -66,22 +66,22 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 
 
 <li>
-  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma (ASH – oral presentation)</div>
+  <div class="item-info"><span class="date">Nov 2025:</span> Spatial multi-omics reveal distinct immunosuppressive lipid-laden macrophages in primary CNS lymphoma (American Society of Hematology:ASH – oral presentation)</div>
   <a href="https://submit.hematology.org/program/presentation/680702" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: TIGIT-mediated immune suppression in KMT2D-mutant pancreatic cancer (AACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: TIGIT-mediated immune suppression in KMT2D-mutant pancreatic cancer (American Association for Cancer Research:AACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A061/765827" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: Epigenetic Tumor Suppressor KMT2D Shapes the Immune Landscape in Pancreatic Cancer (AACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: Epigenetic Tumor Suppressor KMT2D Shapes the Immune Landscape in Pancreatic Cancer (American Association for Cancer ResearchAACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A019/765735" target="_blank">[link]</a>
 </li>
 
 <li>
-  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: KMT2D Loss Induces Enrichment of Plod2+ Fibroblasts in Pancreatic Cancer (AACR)</div>
+  <div class="item-info"><span class="date">Sep 2025:</span> Abstract: KMT2D Loss Induces Enrichment of Plod2+ Fibroblasts in Pancreatic Cancer (American Association for Cancer Research:AACR)</div>
   <a href="https://aacrjournals.org/cancerres/article/85/18_Supplement_3/A061/765827" target="_blank">[link]</a>
 </li>
 
@@ -99,7 +99,7 @@ In Dr. Arvind Rao’s lab, I develop computational and mathematical algorithms f
 </li>
 
 <li>
-  <div class="item-info"><span class="date">May 2024:</span> Joined Dr. Shi’s lab as a lead bioinformatician</div>
+  <div class="item-info"><span class="date">May 2024:</span> Joined Dr. Shi’s lab as the lead bioinformatician</div>
   
 </li>
 
